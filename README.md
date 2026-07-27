@@ -12,6 +12,7 @@
 - [🖼️ 免版权图片与插画](#-免版权图片与插画)
 - [🔤 免费可商用字体](#-免费可商用字体)
 - [🤖 创作必备 AI 效率工具](#-创作必备-ai-效率工具)
+- [🤖 热门 AI 视频生成与画质修复工具]
 - [💰 赞助与合作](#-赞助与合作)
 
 ---
@@ -52,6 +53,16 @@
 
 * [ElevenLabs](https://elevenlabs.io/) - 目前音质最逼真的 AI 配音与声音克隆工具。
 * [CapCut / 剪映](https://www.capcut.com/) - 自带丰富的 AI 自动字幕与智能抠像功能。
+
+---
+
+## 🤖 热门 AI 视频生成与画质修复工具
+
+* [Runway (Gen-2 / Gen-3)](https://runwayml.com/) - 行业顶尖的文本/图片转视频 AI 工具，支持极高精度的动态控制与风格化生成（提供免费试用额度）。
+* [Luma Dream Machine](https://lumalabs.ai/dream-machine) - 生成速度极快且画面物理真实度极高的 AI 视频生成器，支持将静态图秒变动态视频（每日提供免费额度）。
+* [Kling AI (可灵 AI)](https://klingai.kuaishou.com/) - 快手推出的顶级 AI 视频大模型，支持生成最长 10 秒的高清视频与超大动作幅度（每日登录送免费积分）。
+* [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai) - 桌面级无损 AI 视频画质修复神器，支持将低清视频插帧、去噪并提升至 4K/8K 极致画质。
+* [CapCut / 剪映在线画质修复](https://www.capcut.com/tools/ai-video-upscaler) - 网页端即开即用的免费 AI 视频画质增强工具，一键将模糊视频提升至 4K 超清。
 
 ---
 
